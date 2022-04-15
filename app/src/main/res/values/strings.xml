@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Submision!</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a nunc nisl. Proin gravida arcu non arcu pulvinar finibus. In porta efficitur nisl, sit amet facilisis arcu finibus ac. In non cursus turpis. Nam at condimentum turpis. Mauris faucibus mollis tortor vel ornare. Phasellus euismod mi id sagittis euismod. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc euismod nulla sit amet ante mollis semper. Morbi neque urna, facilisis ut massa et, varius congue nulla. Etiam eget fermentum lorem. Integer bibendum semper odio nec venenatis. Duis condimentum vestibulum ornare. Sed interdum metus id tortor ultrices sodales. Proin blandit mattis mollis.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="password_error">Your password must be at least 6 character length</string>
+    <string name="email">Email</string>
+    <string name="add_description">Please add the description</string>
+    <string name="logo">logo</string>
+    <string name="from_gallery">From gallery</string>
+    <string name="upload">Upload</string>
+    <string name="name">Name</string>
+    <string name="invalid_email">Invalid Email</string>
+</resources>
